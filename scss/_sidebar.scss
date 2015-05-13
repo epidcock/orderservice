@@ -1,0 +1,44 @@
+/* Scss Document */
+
+/*
+.custom-row-nav {
+	width: 275px;
+}
+*/
+
+.navbg {
+	background-color: #E5E5E5;
+}
+
+.sidebar{
+	padding-top: 20px;
+}
+
+.btn-menu {
+  background: #f5f5f5;
+  background-image: -webkit-linear-gradient(top, #f5f5f5, #e6e6e6);
+  background-image: -moz-linear-gradient(top, #f5f5f5, #e6e6e6);
+  background-image: -ms-linear-gradient(top, #f5f5f5, #e6e6e6);
+  background-image: -o-linear-gradient(top, #f5f5f5, #e6e6e6);
+  background-image: linear-gradient(to bottom, #f5f5f5, #e6e6e6);
+  -webkit-border-radius: 3;
+  -moz-border-radius: 3;
+  border-radius: 3px;
+  font-family: Arial;
+  text-align: center;
+  color: #000000;
+  font-size: 15px;
+  padding: 10px 10px 10px 10px;
+  text-decoration: none;
+  &:hover {
+	  background: #f0f0f0;
+	  background-image: -webkit-linear-gradient(top, #f0f0f0, #c7c7c7);
+	  background-image: -moz-linear-gradient(top, #f0f0f0, #c7c7c7);
+	  background-image: -ms-linear-gradient(top, #f0f0f0, #c7c7c7);
+	  background-image: -o-linear-gradient(top, #f0f0f0, #c7c7c7);
+	  background-image: linear-gradient(to bottom, #f0f0f0, #c7c7c7);
+	  text-decoration: none;
+	}
+}
+
+

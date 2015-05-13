@@ -1,0 +1,7 @@
+/* Scss Document */
+
+@mixin button($bgcolor){
+	padding: 5px;
+	background: $bgcolor;
+	color: black;
+}

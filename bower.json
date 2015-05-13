@@ -1,0 +1,7 @@
+{
+  "name": "foundation-libsass-template",
+  "dependencies": {
+    "foundation": "~5.5.2",
+    "simplecart-js": "*"
+  }
+}
